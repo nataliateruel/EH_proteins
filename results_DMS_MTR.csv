@@ -1,6 +1,6 @@
-site,label_site,wildtype,mutation,condition,protein_chain,protein_site,mut_r2,var_original
-106,A106,A,V,-,A,106,0.999972,rs10925261
-220,R220,R,G,-,A,220,1,rs10925261
-686,H686,H,N,-,A,686,1,rs10925261
-919,D919,D,G,-,A,919,1,rs10925261
-1222,N1222,N,S,-,A,1222,0.999934,rs10925261
+site,label_site,wildtype,mutation,condition,protein_chain,protein_site,site_r2,mut_r2,var_original
+106,A106,A,V,-,A,106,0.999972,0.999972,rs10925261
+220,R220,R,G,-,A,220,1,1,rs10925261
+686,H686,H,N,-,A,686,1,1,rs10925261
+919,D919,D,G,-,A,919,1,1,rs10925261
+1222,N1222,N,S,-,A,1222,0.999934,0.999934,rs10925261
