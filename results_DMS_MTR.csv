@@ -1,4 +1,4 @@
-﻿site,label_site,wildtype,mutation,condition,protein_chain,protein_site,site_r2,mut_r2,site_interaction_B12,site_interaction_SAH
+﻿site,label_site,wildtype,mutation,condition,protein_chain,protein_site,site_r2,mut_r2,site_interactionB12,site_interactionSAH
 106,A106,A,V,-,A,106,5,0.999972,,
 220,R220,R,G,-,A,220,5,1,,
 686,H686,H,N,-,A,686,5,1,,
